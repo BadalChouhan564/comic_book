@@ -22,5 +22,3 @@ This project is a backend for a React-based e-commerce store that allows the sto
 3. **Comic Book Details API**:
    - **Get Comic Book Details**: Retrieve detailed information about a specific comic book by its ID.
 
-## Project Structure
-
